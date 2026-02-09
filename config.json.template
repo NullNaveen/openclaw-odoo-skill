@@ -1,0 +1,12 @@
+{
+  "url": "http://localhost:8069",
+  "db": "your_database_name",
+  "username": "your_email@company.com",
+  "api_key": "your_odoo_api_key_here",
+  "timeout": 60,
+  "max_retries": 3,
+  "poll_interval": 60,
+  "log_level": "INFO",
+  "webhook_port": 8070,
+  "webhook_secret": ""
+}
