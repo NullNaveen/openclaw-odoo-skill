@@ -1,11 +1,20 @@
 ---
 name: odoo
 description: Build or use the Odoo ERP connector for OpenClaw (Sales, CRM, Purchase, Inventory, Projects, HR, Fleet, Manufacturing integration via XML-RPC).
+repository: https://github.com/NullNaveen/openclaw-odoo-skill
 ---
 
 # Odoo ERP Connector
 
-Full-featured Odoo 19 integration for OpenClaw. Control your entire business via natural language chat commands.
+Full-featured Odoo 19 ERP integration for OpenClaw. Control your entire business via natural language chat commands.
+
+**📦 Full Source Code:** https://github.com/NullNaveen/openclaw-odoo-skill
+
+## Quick Install
+
+\ash
+npx clawhub install odoo-erp-connector
+\
 
 ## Overview
 
