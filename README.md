@@ -190,10 +190,8 @@ openclaw-odoo-skill/
 ## Documentation
 
 - **SKILL.md** — Complete skill definition with 30+ command examples
-- **README.md** — This file (installation + quick start)
+- **README.md** — Installation guide and quick start (this file)
 - **TEST_RESULTS.md** — Test coverage report
-- **COMPLETION_REPORT.md** — Development summary
-- **INSTALL_INSTRUCTIONS.md** — Team distribution guide
 
 ## Security Note
 
